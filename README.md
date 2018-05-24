@@ -1,5 +1,5 @@
 # TPS-NecroDancerLike
-NecroDancerLike game
+## NecroDancerLike game
 
 一个仿照节奏地牢的第三人称游戏。
 目前完成了角色的控制和4个技能的释放，和简单的敌人AI。
